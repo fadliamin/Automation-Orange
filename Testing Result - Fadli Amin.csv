@@ -1,0 +1,140 @@
+case_id,title,suite,suite_id,assignee,time_spent_ms,status,finish_time,steps,steps_input_data,steps_expected_result,steps_status,comment,priority,severity,automation,type,tags,step_comments,case_parameter
+1,"Search Username","User Management",12,"Fadli Aamin",6000,Passed,"2022-07-28 18:18:30","1. user klik kolom username
+2. user mengisi kolom username
+3. user klik tombol ""Search""
+","1. 
+2. [Garry.White](https://opensource-demo.orangehrmlive.com/index.php/admin/saveSystemUser?userId=25)
+3. 
+","1. 
+2. 
+3. berhasil menampilkan username yang dicari
+",,,"Not set",Normal,"Not automated",Other,,,
+2,"Add Job Titles","Add Job",13,"Fadli Aamin",2000,Passed,"2022-07-28 18:18:33","1. user klik tombol ""add""
+2. user mengisi kolom ""Job Title""
+3. user mengisi ""Job description""
+4. user memilih file yang ingin di pilih pada kolom ""Job Specification""
+5. user mengisi kolom ""note""
+6. user klik tombol ""Save""
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. Berhasil menambahkan job tittle
+",,,"Not set",Normal,"Not automated",Other,,,
+3,"Add Skills","Qualifications Skills",14,"Fadli Aamin",1000,Passed,"2022-07-28 18:18:35","1. User klik Qualification pada menu Admin
+2. User klik Skills pada menu Qualification
+3. user klik ""Add""
+4. user mengisi kolom nama
+5. user mengisi kolom description
+6. user klik tombol ""Save""
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. Berhasil menambahkan Skill
+",,,"Not set",Normal,"Not automated",Other,,,
+4,"Add Employee",PIM,2,"Fadli Aamin",1000,Passed,"2022-07-28 18:18:38","1. User klik ""PIM"" Menu
+2. User klik ""Add Employee"" pada menu PIM
+3. User mengisi nama pada kolom ""Full Name""
+4. User mengisi kolom ""Employee Id""
+5. User Memilih gambar yang ingin dimasukkan kedalam kolom ""Photograph""
+6. User mencentak pada kotak ""create Login Details""
+7. user mengisi username pada kolom ""username""
+8. User mengisi password pada kolom ""Password""
+9. User konfirmasi kembali password pada kolom ""Confirm Password""
+10. User memilih status pada kolom status
+11. user klik tombol ""save""
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. Berhasil menambahkan Karyawan
+",,,"Not set",Normal,"Not automated",Other,,,
+5,"Menambahkan Candidates dalam Recruitment",Recruitment,5,"Fadli Aamin",24000,Passed,"2022-07-28 18:19:03","1. User Klik Candidates pada menu Recruitment
+2. User mengisi nama pada kolom ""Full Name""
+3. User mengisi Email pada kolom ""Email""
+4. User mengisi nomor hp pada kolom ""Contact No""
+5. User memilih pekerjaan pada dropdown menu ""Job Vacancy""
+6. user memilih cv yang ingin dimasukkan kedalam kolom ""Resume""
+7. User memasukkan kata kunci pada kolom ""Keywords""
+8. User memasukkan koment pada kolom ""comment""
+9. User memasukkan tanggal aplication pada kolom ""Date of Application""
+10. user mencentang pada kolom ""Consent to keep data""
+11. user klik tombol ""Save""
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+","1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. Berhasil Menambahkan Kandidat
+",,,"Not set",Normal,"Not automated",Other,,,
+6,"Edit nama pada My Info","My Info",6,"Fadli Aamin",1000,Passed,"2022-07-28 18:19:05","1. User Klik My Info Menu
+2. User Klik tombol ""Edit""
+3. User mengisi kembali nama pada kolom ""Full Name""
+4. user klik tombol ""Save""
+","1. 
+2. 
+3. 
+4. 
+","1. 
+2. 
+3. 
+4. Personal Details Successfully Saved
+",,,"Not set",Normal,"Not automated",Other,,,
+7,"Search Directory",Directory,9,"Fadli Aamin",1000,Passed,"2022-07-28 18:19:07","1. User klik ""Directory Menu""
+2. User mengisi nama pada kolom ""name""
+3. user klik tombol ""Search""
+","1. 
+2. **Odis Adalwin**
+3. 
+","1. 
+2. 
+3. Berhasil menampilkan directory sesuai nama yang di cari
+",,,"Not set",Normal,"Not automated",Other,,,
